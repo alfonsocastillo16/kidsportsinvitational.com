@@ -1,0 +1,144 @@
+<!doctype html>
+
+<html>
+
+<head>
+<meta name="description" content="Official website for the 2014 Kidsports Invitational. Learn more about the youth basketball tournament Powered by the Warsaw Sports Marketing Center.">
+<meta name="keywords" content="Kidsports, Invitational, Warsaw, Eugene, Oregon, Youth, Basketball, Tournament, Sports">
+<meta name="author" content="Luis Alfonso Castillo">
+<meta charset="utf-8">
+
+<title>KSI | Page Not Found</title>
+
+<link rel="icon" type="image/png" href="pictures/favicon.png"/>
+<link rel="stylesheet" type="text/css" href="ksistyle.css">
+
+<script>
+  (function(i,s,o,g,r,a,m){i['GoogleAnalyticsObject']=r;i[r]=i[r]||function(){
+  (i[r].q=i[r].q||[]).push(arguments)},i[r].l=1*new Date();a=s.createElement(o),
+  m=s.getElementsByTagName(o)[0];a.async=1;a.src=g;m.parentNode.insertBefore(a,m)
+  })(window,document,'script','//www.google-analytics.com/analytics.js','ga');
+
+  ga('create', 'UA-47276875-1', 'kidsportsinvitational.com');
+  ga('send', 'pageview');
+
+</script>
+
+<style type="text/css">
+#left {
+
+	background-color: #000;
+	letter-spacing: normal;
+	word-spacing: normal;
+	display: block;
+	float: left;
+	padding: 0px;
+	height: 800px;
+	width: 900px;
+	margin-top: 0px;
+	margin-right: auto;
+	margin-bottom: 0px;
+	margin-left: auto;
+	overflow: hidden;
+	position: relative;
+
+}
+
+</style>
+
+</head>
+
+<body> 
+
+<div id="container">
+
+<div class="header">
+
+<div class="headcontain">
+
+<span class="topphrase"><a href="http://www.kidsports.org/warsaw" target="_blank">Registration</a> | <a href="https://www.facebook.com/ksinvitational" target="_blank">Facebook</a></span>
+
+<a href="index.html"><div class="logo"></div></a>
+
+<a href="index.html"><div class="shield"></div></a>
+</div></div>
+
+<nav class="navi">
+
+  <ul class="navlist">
+
+    <li><a class="navlink" href="index.html">
+
+      <div id="navhome"></div>
+
+    </a></li>
+
+    <li><a class="navlink" href="about.html">
+
+      <div id="navabout"></div>
+
+    </a></li>
+
+    <li><a class="navlink" href="participation.html">
+
+      <div id="navpart"></div>
+
+    </a></li>
+
+    <li><a class="navlink" href="beneficiaries.html">
+
+      <div id="navbenif"></div>
+
+    </a></li>
+
+    <li><a class="navlink" href="sponsors.html">
+
+      <div id="navsponsors"></div>
+
+    </a></li>
+
+    <li><a class="navlink" href="blog.html">
+
+      <div id="navblog"></div>
+
+    </a></li>    
+
+    <li><a class="navlink" href="contact.html">
+
+      <div id="navcontact"></div>
+
+    </a></li>
+
+  </ul>
+
+</nav>
+
+<div class="bodycontain">
+
+<div id="left">
+
+<p style="text-align: center; margin-top:25px; margin-left:auto; margin-right:auto; font-size:36px">
+:(<br>
+404: Page Not Found<br>
+<a href="index.html">Click here to return to the home page</a><br>
+<img style="margin-top:25px; margin-right:auto; margin-left:auto;" src="pictures/ksievent01.png" width="400" height="300" alt="KIDSPORTS Invitational"/></p>
+
+</div>
+
+<div id="footer">
+
+<p style="margin-top:160px; font-size:10px;">Copyright © 2014 KidSportsInvitational.com. All Rights Reserved.<br>
+
+<a href="index.html">Home</a> | <a href="about.html">About</a> | <a href="participation.html">Participation</a> | <a href="beneficiaries.html">Beneficiaries</a> | <a href="sponsors.html">Sponsors</a> | <a href="blog.html">Blog</a> | <a href="contact.html">Contact</a> | <a href="https://www.facebook.com/ksinvitational" target="_blank">Facebook</a> | <a href="http://www.kidsports.org/warsaw" target="_blank">Registration</a></p>
+
+</div>
+
+<div id="bottom"></div>
+
+</div>
+
+</div>
+
+</body>
+
+</html>
